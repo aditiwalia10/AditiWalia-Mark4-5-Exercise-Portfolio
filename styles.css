@@ -125,3 +125,52 @@ text-align: center;
 .footer ul {
     padding-inline-start: 0px;
 }
+
+.footer .footer-header {
+    font-size: large;
+    font-weight: bold;
+}
+
+/* for blogs */
+.Heroo {
+    padding: 2rem;
+}
+
+.Heroo .Heroo-img {
+    max-width: 350px;
+    margin: auto;
+    display: block;
+}
+
+.Heroo .Heroo-heading {
+    color: #404040;
+    padding-top: 1rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.Heroo .Heroo-heading .heading-inverted {
+    color: #134e4a;
+}
+
+/* for projects */
+.Herooo {
+    padding: 2rem;
+}
+
+.Herooo .Herooo-img {
+    max-width: 350px;
+    margin: auto;
+    display: block;
+}
+
+.Herooo .Herooo-heading {
+    color: #404040;
+    padding-top: 1rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.Herooo .Herooo-heading .heading-inverted {
+    color: #134e4a;
+}
