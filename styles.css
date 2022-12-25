@@ -6,6 +6,7 @@ root {
 
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 
 hr {
@@ -30,6 +31,8 @@ hr {
     background-color: #134e4a;
     border-radius: 0.5rem;
     color: white;
+    transition: 1ms;
+    box-shadow: #404040;
 }
 
 .link-secondary {
@@ -103,4 +106,22 @@ text-align: center;
 
 .ow {
     background-color: #f0fdfa;
+}
+
+.footer {
+    background-color: #134e4a;
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.footer .link {
+    color: white;
+    font-size: 1rem;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
 }
