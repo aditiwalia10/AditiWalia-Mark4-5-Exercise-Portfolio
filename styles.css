@@ -3,6 +3,7 @@
 root {
     --primary-color: #134e4a;
 }
+
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -90,4 +91,16 @@ hr {
 
 .hero .hero-heading .heading-inverted {
     color: #134e4a;
+}
+
+.section {
+    padding: 2rem;
+}
+
+.section h1 {
+text-align: center;
+}
+
+.ow {
+    background-color: #f0fdfa;
 }
